@@ -1,0 +1,12 @@
+-------- admin -----------
+
+username : admin
+password : admin1234
+
+
+
+
+-------- user -----------
+
+username : user1@gmail.com
+password : 123
